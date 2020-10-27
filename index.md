@@ -10,6 +10,7 @@
 
 #Software Engineering Concepts
 - [SOLID Principles](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdflFSS4NigVB7aSoYPNwHTL)
+- [Uncle Bob Martin - The Craftsman's Oath](https://youtu.be/17vTLSkXTOo)
 
 
 
